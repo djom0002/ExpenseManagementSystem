@@ -1,4 +1,4 @@
-The ExpenseManagementSystem class in Java manages employee expense records, allowing for operations such as reading from a CSV file, adding expenses through user input, printing detailed reports, and calculating total expenses including tax.
+This Java project is an Expense Management System designed to track, manage, and report on travel and meal expenses using object-oriented principles
 
 
 
